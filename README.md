@@ -1,4 +1,4 @@
-# preparatory_work
+# **preparatory_work**
 
 ###Learning the knowledge about DLX,and understanding the difference between the DLX and SPIM. 
 Spending: 2015/7/8 ~ 2015/7/12
@@ -38,3 +38,6 @@ Spending: 2015/11/18 ~ 2015/11/23
 
 ###Learning the book named 《CPU 入门自制》.
 Spending: 2015/11/24 ~ 2015/12/7
+
+###Learning the book named 《代码大全》.
+Spending: [2015/12/8 ~ 2015/12/11](https://github.com/kippy620/Note/tree/master/CodeComplete2)
