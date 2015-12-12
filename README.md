@@ -34,7 +34,7 @@ Spending: 2015/10/14 ~ 2015/10/19
 Spending: 2015/11/10 ~ 2015/11/17
 
 ###Learning the contents (1.1~2.6) of 《RISC_V Instruction Set Manual》(Volume I: User-Level ISA).
-Spending: 2015/11/18 ~ 2015/11/23
+Spending: [2015/11/18 ~ 2015/11/23](https://github.com/iFMRT/riscv-spec-v2-cn)
 
 ###Learning the book named 《CPU 入门自制》.
 Spending: 2015/11/24 ~ 2015/12/7
